@@ -1,1 +1,1 @@
-console.log("Adar");
+console.log("sAdar");
